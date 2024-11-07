@@ -1,7 +1,7 @@
 {
   "name": "react",
   "version": "0.0.0",
-  "homepage": "https://Mostafa-Essam-Bakr.github.io/test-gsap",
+  "homepage": "https://Mostafa-Essam-Bakr.github.io/test-gsapp",
   "private": true,
   "dependencies": {
     "@gsap/react": "^2.1.0",
@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "gh-pages": "^6.2.0",
-    "react-scripts": "^5.0.1"
+    "react-scripts": "latest"
   },
   "browserslist": {
     "production": [
